@@ -33,4 +33,3 @@ form.addEventListener('submit', (event) => {
   localStorage.removeItem(STORAGE_KEY);
   form.reset();
 });
-
